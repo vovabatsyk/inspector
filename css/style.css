@@ -1,0 +1,26 @@
+.inspector {
+    background-color: #223b56;    
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.inspector h3 {
+	font-size: 1.75rem;
+	color: white;
+	text-align: center;
+}
+
+.logo {
+	height: 128px;
+}
+
+/*h3 {
+	  font-size: 1.75rem;
+    color: white;
+}*/
+
+html {
+	box-sizing: border-box;
+}
